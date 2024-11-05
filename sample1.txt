@@ -1,0 +1,103 @@
+Six Exciting Domains:
+Participants can choose from five pre-defined domains to work on:
+1. Sustainability & Climate Action – Innovate to tackle environmental
+challenges.
+2. Health Tech & Wellbeing – Create solutions that improve health and
+wellness.
+3. EdTech & Learning Solutions – Revolutionize education through
+technology.
+4. Smart Cities & IoT – Design smarter, more efficient urban solutions.
+5. FinTech & Financial Inclusion – Build tools to enhance financial access
+and security.
+Open Innovation:
+We encourage creativity beyond the given domains! If you have a unique idea,
+you can propose your own problem statement and develop an innovative solution
+in any field of your choice.
+
+PROBLEM STATEMENTS
+1. Sustainability & Climate Action
+1. Real-Time Energy Monitoring: Develop a smart home energy
+management system that provides real-time insights into energy
+consumption, helping households optimize their energy use and reduce
+carbon emissions.
+2. Circular Economy Marketplace: Create a marketplace app that allows
+consumers to buy and sell upcycled or second-hand products, promoting
+sustainable consumption practices.
+3. Water Conservation System: Design an IoT-based system for detecting
+and addressing water wastage in public and residential spaces, with
+real-time alerts for leaks or excessive use.
+4. Deforestation Monitoring App: Build a machine learning tool that uses
+satellite imagery to track and report deforestation in real-time, enabling
+governments and NGOs to take quick action.
+
+5. Sustainable Fashion Platform: Create a platform that rates clothing
+brands based on their sustainability practices, giving consumers insights
+into ethical fashion choices.
+2. Health Tech & Wellbeing
+1. AI for Elderly Care: Develop a virtual assistant that uses AI to monitor the
+health of elderly people living alone, providing reminders for medication,
+doctor appointments, and emergency alerts.
+2. Personalized Nutrition Plan: Build an AI-driven app that generates
+personalized meal plans based on a user’s health data, dietary
+preferences, and fitness goals, promoting long-term wellness.
+3. Remote Patient Monitoring: Create a low-cost wearable device that
+collects and transmits vital health metrics like heart rate, blood pressure,
+and glucose levels to healthcare providers in remote areas.
+4. Addiction Recovery Support: Design a mobile app that offers behavioral
+therapy techniques, community support, and personalized recovery plans
+for individuals struggling with addiction.
+5. AI-Powered Early Detection: Develop an AI model that analyzes medical
+images (e.g., X-rays, MRIs) to detect early signs of cancer, providing
+accurate results even in low-resource environments.
+3. EdTech & Learning Solutions
+1. Accessible Learning for the Visually Impaired: Create an app that
+converts textbooks and educational content into audio, using AI to
+enhance accessibility for visually impaired students.
+2. AI Tutor for Skill Development: Develop an AI-based tutor that helps
+students learn coding, mathematics, or other skills by dynamically
+adjusting the difficulty based on their performance.
+3. Peer-to-Peer Learning Platform: Design a platform where students can
+teach and learn from each other by sharing notes, tutorials, and study
+sessions, enhancing collaboration and knowledge sharing.
+4. Offline Learning Resources: Build a mobile app that provides offline
+access to educational resources for students in areas with limited or no
+internet connectivity.
+
+5. Real-Time Collaborative Classroom: Create a virtual classroom platform
+that allows teachers and students to collaborate in real-time on interactive
+projects, making remote learning more engaging.
+4. Smart Cities & IoT
+1. Smart Parking System: Design an IoT solution for urban areas that helps
+drivers find available parking spaces in real-time, reducing traffic
+congestion and emissions caused by vehicles searching for parking.
+2. IoT-Enabled Disaster Response: Create a network of IoT sensors that
+monitor environmental conditions to predict natural disasters such as
+floods or earthquakes, and provide early warnings to affected populations.
+3. Urban Noise Pollution Tracker: Develop a system that monitors noise
+pollution levels in cities and provides data to local governments, helping to
+implement noise control measures and create quieter urban environments.
+4. IoT for Smart Street Lighting: Build a street lighting system that adjusts
+brightness based on pedestrian and vehicle activity, conserving energy and
+improving safety.
+5. IoT Waste Segregation System: Develop a smart waste bin that
+automatically segregates waste into recyclables, compost, and landfill,
+encouraging more efficient recycling practices.
+5. FinTech & Financial Inclusion
+1. Micro-Lending for Farmers: Create a micro-lending platform that
+connects small-scale farmers with low-interest loans, helping them invest
+in equipment and supplies for sustainable agricultural practices.
+2. Crowdsourced Investment Platform: Develop a platform that allows
+individuals to pool resources and invest in startups or local businesses,
+democratizing investment opportunities.
+3. AI for Credit Scoring: Build an AI-powered system that uses
+non-traditional data (e.g., social media behavior, bill payments) to provide
+credit scores for people with limited or no credit history.
+4. Blockchain for Transparent Charities: Design a blockchain-based
+solution that ensures transparency in donations to charitable organizations,
+providing real-time tracking of how funds are being utilized.
+
+5. Financial Education for Youth: Develop an interactive mobile app that
+teaches teenagers and young adults financial literacy, covering topics like
+budgeting, saving, and understanding credit, through gamified modules.
+
+
